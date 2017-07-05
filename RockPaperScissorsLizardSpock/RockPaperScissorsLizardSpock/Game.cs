@@ -114,7 +114,7 @@ namespace RockPaperScissorsLizardSpock
 
         public void CalculateScore()
         {
-            int d = 5;
+            int d;
             d = (5 + playerOne.gesture - playerTwo.gesture) % 5;
 
             if ((d == 1) || (d == 3))
