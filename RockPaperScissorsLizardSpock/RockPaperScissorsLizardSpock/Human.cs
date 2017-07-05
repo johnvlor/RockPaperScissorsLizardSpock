@@ -12,8 +12,5 @@ namespace RockPaperScissorsLizardSpock
         {
             this.name = name;
         }
-
-       
-
     }
 }

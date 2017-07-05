@@ -12,7 +12,7 @@ namespace RockPaperScissorsLizardSpock
         public int gesture;
         public int score;
         public string inputChoice;
-        List<string> playerGestures;
+        public List<string> playerGestures;
 
         public Player()
         {
